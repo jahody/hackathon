@@ -1,4 +1,11 @@
-# hackathon
+# AI HACKATHON
+## DATA
+Labeled train data set of reminder communication history for dental appointments. 
+Each reminder gives a patient option to confirm the appointment.
+Data has approximately 20 variables with information about appointments, reminders, clinics and patients from all over Canada.
+
+## EVALUATION
+The percentage of appointment confirmations you correctly predict from test set.
 
 1-data.ipybn  - data gathering, cleaning, feature engineering
 
